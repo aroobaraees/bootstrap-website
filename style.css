@@ -1,0 +1,46 @@
+
+ 
+ .textgreen{
+    color: var(--greencolor);
+ }
+
+ .bggreen{
+    background-color: rgb(18, 224, 18);
+    color: white;
+ }
+
+ .bggreen :hover{
+    background-color: rgb(242, 243, 242);
+ }
+
+ .bggreencolor{
+    background-color: white;
+    color:rgb(18, 224, 18) ;
+ }
+
+ .bggreencolor :hover {
+    background-color:rgb(18, 224, 18) ;
+    color: white;
+ }
+
+ .textcolor{
+        color:white;
+ }
+
+
+ .textcolor :hover{
+   color: rgb(18, 224, 18);
+
+ }
+
+ .text-h{
+   color: black;
+ }
+
+  .text-h1{
+   color: rgb(18, 224, 18);
+ }
+
+ .size-div{
+   width: 35%;
+ }
