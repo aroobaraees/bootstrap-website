@@ -32,15 +32,10 @@
    color: rgb(18, 224, 18);
 
  }
+ 
+  
 
- .text-h{
-   color: black;
- }
+.textcolor-h1{
+  color:rgb(18, 224, 18)  ;
+}
 
-  .text-h1{
-   color: rgb(18, 224, 18);
- }
-
- .size-div{
-   width: 35%;
- }
