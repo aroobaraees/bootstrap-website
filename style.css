@@ -52,11 +52,11 @@
 }
 
 .bg-color{
-   background-color:#E0E0E0;
+   background-color:#F5F7FA !important;
 }
 
 .bg-color{
-   background-color: #F5F7FA;
+   background-color: #F5F7FA; 
 }
 
 .fontsize{
@@ -73,7 +73,9 @@
    color: black;
 }
 
-
+.bg-color1{
+   background-color: #F5F7FA !important;
+}
 
 
 
