@@ -1,7 +1,18 @@
 
  
+
+
+@font-face {
+   font-family: infer;
+   src: url(./fonts/Inter-Italic-VariableFont_opsz\,wght.ttf);
+}
+
+
+
+
  .textgreen{
     color: var(--greencolor);
+    font-family: inter;
  }
 
  .bggreen{
@@ -37,5 +48,52 @@
 
 .textcolor-h1{
   color:rgb(18, 224, 18)  ;
+  font-family: inter;
 }
 
+.bg-color{
+   background-color:#E0E0E0;
+}
+
+.bg-color{
+   background-color: #F5F7FA;
+}
+
+.fontsize{
+ font-size: 30px;  
+ font-family: inter;
+}
+
+.fontfamliy{
+   font-family: inter;
+}
+
+
+.color{
+   color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) {
+   .container{
+   justify-content: center;
+  }
+}
