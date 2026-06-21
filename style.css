@@ -50,7 +50,11 @@
   color:rgb(18, 224, 18)  ;
   font-family: inter;
 }
+   
+.textcolor-h1{
+  color:rgb(18, 224, 18);
 
+}
 .bg-color{
    background-color:#F5F7FA !important;
 }
@@ -82,9 +86,17 @@
 
 }
 
+.tx{
+   text-align: left;
+}
 
+.txs{
+font-size: 35px !important;
+}
 
-
+.txp{
+   font-size: 15px;
+}
 
 
 
