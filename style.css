@@ -3,8 +3,8 @@
 
 
 @font-face {
-   font-family: infer;
-   src: url(./fonts/Inter-Italic-VariableFont_opsz\,wght.ttf);
+   font-family:font;
+   src: url(./fonts/font.ttf);
 }
 
 
@@ -12,11 +12,12 @@
 
  .textgreen{
     color: var(--greencolor);
-    font-family: inter;
+    font-family:font;
  }
 
  .bggreen{
-    background-color: rgb(18, 224, 18);
+    background-color:#4CAF4F;
+    ;
     color: white;
  }
 
@@ -26,11 +27,13 @@
 
  .bggreencolor{
     background-color: white;
-    color:rgb(18, 224, 18) ;
+    color:#4CAF4F;
+    ;
  }
 
  .bggreencolor :hover {
-    background-color:rgb(18, 224, 18) ;
+    background-color:#4CAF4F;
+ 
     color: white;
  }
 
@@ -40,19 +43,19 @@
 
 
  .textcolor :hover{
-   color: rgb(18, 224, 18);
+   color: #4CAF4F;
 
  }
  
   
 
 .textcolor-h1{
-  color:rgb(18, 224, 18)  ;
-  font-family: inter;
+  color:#4CAF4F  ;
+  font-family: font;
 }
    
 .textcolor-h1{
-  color:rgb(18, 224, 18);
+  color:#4CAF4F;
 
 }
 .bg-color{
@@ -65,11 +68,11 @@
 
 .fontsize{
  font-size: 30px;  
- font-family: inter;
+ font-family: font;
 }
 
 .fontfamliy{
-   font-family: inter;
+   font-family: font;
 }
 
 
@@ -98,10 +101,15 @@ font-size: 35px !important;
    font-size: 15px;
 }
 
+.bgfooter{
+   background: #263238;
+
+}
 
 
-
-
+.color-white{
+   color: white !important;
+}
 
 
 
