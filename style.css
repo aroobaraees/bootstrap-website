@@ -112,10 +112,23 @@ font-size: 35px !important;
 }
 
 
+.box-s{
+   width: 22% !important;
+}
+
+.bgemail{
+   background: #FFFFFF;
+ 
+}
 
 
+.footergrey{
+   background-color: #515b60 !important;
+}
 
-
+.footergrey::placeholder{
+   color: white;
+}
 
 @media (min-width: 576px) {
    .container{
