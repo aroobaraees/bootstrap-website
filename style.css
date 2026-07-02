@@ -243,30 +243,12 @@
    .content {
       justify-content: center;
       align-items: center;
-      padding-left: 90px;
+      
    }
 
-   footer {
-      display: flex;
-      flex-direction: column;
-      width: 100%;
-      padding-right:140px ;
-      justify-content: center;
-      align-items: center;
-   }
-
-   .box-s {
-      width: 100% !important;
-      padding-right: 0px;
-      margin: 0%;
-      text-align: center;
-      font-size:10px ;
-   }
-
-   
    .footergrey::placeholder {
    color: white;
-   width: 100%;
+   width: 70%;
 }
 /* 
 .footerlogo div img{
