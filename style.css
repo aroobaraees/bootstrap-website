@@ -96,8 +96,14 @@
 
 .txp {
    font-size: 15px;
+   text-align: center;
 }
 
+
+.txp{
+   justify-content: center !important;
+   align-items: center !important;
+}
 .bgfooter {
    background: #263238;
 
@@ -160,29 +166,29 @@
       padding: 5px !important;
    }
 
-
+   .just{
+      justify-content: center !important;
+      align-items: center !important;
+   }
    .content {
       justify-content: center;
       align-items: center;
-      padding-left: 90px;
+      
    }
 
    footer {
       display: flex;
       flex-direction: column;
-      width: 100%;
-      padding-right:140px ;
-      justify-content: center;
       align-items: center;
    }
 
-   .box-s {
+   /* .box-s {
       width: 100% !important;
       padding-right: 0px;
       margin: 0%;
       text-align: center;
       font-size:10px ;
-   }
+   } */
 
    
    .footergrey::placeholder {
@@ -199,6 +205,25 @@
    justify-content: center !important;
    width: 100% !important;
 }
+
+.ms-5{
+   margin-left: 0% !important;
+   justify-content: center !important;
+   align-items: center !important;
+   text-align: center !important;
+}
+
+.box-s{
+   width: 80% !important;
+}
+
+
+.custom-ruby{
+    justify-content: center;
+   /* display: ruby !important; */
+}
+
+
 
 }
 
